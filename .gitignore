@@ -42,6 +42,8 @@ desktop.ini
 *.tmp
 *.pyc
 
-# Результаты обучения (опционально — если не хочешь грузить графики и визуализации)
-# checkpoints/progress_epoch_*.png
-# checkpoints/losses.png
+# Исходные фотографии
+your_photos/
+
+# датасет
+dataset/
